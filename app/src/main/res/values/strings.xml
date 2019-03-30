@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">SabithaIndraReddy</string>
+
+
+    <string name="ok">OK</string>
+    <string name="retry">RETRY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="skip">Skip</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="read_more"></string>
+    <string name="read_less"></string>
+
+    <!--language selection -->
+    <string name="english">English</string>
+    <string name="kannada">Kannda</string>
+
+    <!-- Screen name/related -->
+    <!--Screen login-->
+    <string name="login_title">Welcome</string>
+    <string name="login_text">Lorem ipsum dolor sit amet concentetur adipiscing elit.Ul </string>
+    <string name="Connectwithfb">Connect with Facebook</string>
+    <string name="connectwithgoogle">Connect with Google</string>
+    <string name="or">- OR -</string>
+    <string name="user_name">Email / Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="bt_singnin">Sign In</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="tv_newuser_signup">New User?</string>
+    <string name="signup">Sign Up</string>
+    <string name="bt_continueasguest">Countinue as Guest</string>
+    <string name="changelanguageselection">Change Language Selection</string>
+
+    <!--Screen registration -->
+    <string name="registration_title">Registration</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="radio_male">M</string>
+    <string name="radio_female">F</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="mobile">Mobile</string>
+    <string name="pincode">Pincode</string>
+    <string name="email">Email</string>
+    <string name="selectaddress">Select Address</string>
+    <string name="signin">Sign In</string>
+
+    <string name="alreadyYouHaveAnAccount">Already have an account?</string>
+
+    <!--Screen UpdateProfile-->
+    <string name="updateprofile">UpdateProfile</string>
+    <string name="changePassword">ChangePassword</string>
+    <string name="update">Update</string>
+
+    <!--Change password-->
+    <string name="changepsw">Change Password</string>
+    <string name="oldpassword">Old Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+
+    <!--Screen Forgot password-->
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="getopt">Request OTP</string>
+    <string name="submit_btn">submit</string>
+
+    <!--Screen Home activity-->
+    <string name="all_tab">ALL</string>
+    <string name="news_tab">NEWS</string>
+    <string name="videos_tab">VIDEOS</string>
+    <string name="live_tab">LIVE</string>
+
+    <!--NavigationMenu-->
+    <string name="profile">Profile</string>
+    <string name="journeyofdks">Journey of DKS</string>
+    <string name="visonofdks">Vision of DKS</string>
+    <string name="achievements">Achievements</string>
+    <string name="historyofCongress">History of Congress</string>
+    <string name="GovernmentAchievements">Government Achievements</string>
+    <string name="SocialConnect">Social Connect</string>
+    <string name="Interactwithdks">Interact With DKS</string>
+    <string name="Volunteer">Volunteer</string>
+    <string name="Blog">Blog</string>
+    <string name="BlogDetails">Blog Details</string>
+    <string name="Logout">Logout</string>
+    <!--Navigationsubmenu-->
+    <string name="politicalcareer">Political Career</string>
+    <string name="personalHistory">Personal History</string>
+    <string name="energyMinister">EnergyMinister</string>
+    <string name="kanakapura">Kanakapura</string>
+    <string name="historyofnationalcongress">Histroy OF National Congress</string>
+    <!--bottom bar-->
+    <string name="achievements1">Achievements</string>
+    <string name="feeds">Feeds</string>
+    <string name="visionofdks">Vision Of DKS</string>
+    <!--social connect-->
+    <string name="facebook">FACEBOOK</string>
+    <string name="twitter">TWITTER</string>
+    <string name="instagram">INSTAGRAM</string>
+    <string name="youtube">YOUTUBE</string>
+    <!--Interact with dks-->
+    <string name="interactwithdks">Interact with DKS</string>
+    <string name="enteryourpincode">Enter Your Pincode</string>
+    <string name="SelectyourConcernType">Select Your ConcernType</string>
+    <string name="selectLocation">Select Location</string>
+    <string name="EnteryourDescription">Enter Your Description</string>
+    <string name="Attachments">Upload Image  (Max 3)</string>
+    <string name="send">Send</string>
+    <!--Volunteer-->
+    <string name="volunteer">Volunteer</string>
+    <string name="anySpecificskill">Any Specific skill you want to volunteer for</string>
+    <string name="facebookprofilepagelink">FacebookProfilePageLink</string>
+    <string name="fblink">www.facebook.com\</string>
+    <string name="twitterhandlelink">Twitter Handle Link</string>
+    <string name="twitterlink">www.Twitter.com\</string>
+    <string name="submit">Submit</string>
+
+
+    <string name="about_kiranbedi">  "Patlolla Sabitha Indra Reddy is an Indian politician and the first woman Home Minister of Andhra Pradesh (INC). Earlier, she was a member of Chief Minister Y. S. Rajasekhara Reddys cabinet.
+        Sabitha was born on 5 May 1963 at Tandur to G. Mahipal Reddy. She completed her education in B.Sc and has been a Member of the Legislative Assembly of Andhra Pradesh for two terms from Rajendra Nagar assembly constituency (2004 - 2009) and Maheshwaram constituency (2009 - 2014).
+        She was married to P. Indra Reddy (1954-2000) who was the Home Minister in N. T. Rama Rao's Cabinet and has three sons (Karthik, Koushik &amp; Kalyan).Sabitha held the position of Mines and Geology Minister in the earlier government (2004 - 2009).
+        Presently She is a Vice President TPCC (Telangana Pradesh Congress Committe) and she is Constesting as a Congress MLA Conditate from Maheshwaram constituency for the year 2018."</string>
+</resources>
+

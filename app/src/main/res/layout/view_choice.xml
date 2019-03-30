@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerVertical="true"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/txtChoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:background="@color/bpTransparent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="A"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:id="@+id/layChoice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/txtChoice">
+
+        <TextView
+            android:id="@+id/txtChipName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:visibility="visible"
+            android:background="@drawable/bg_home"/>
+
+        <TextView
+            android:id="@+id/txtChipName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/verified"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="TextView"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txtChipName2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/verified"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="TextView"
+            android:textColor="@color/dark_gray"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/verified"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/check_circle_material"
+            android:visibility="invisible" />
+    </RelativeLayout>
+</RelativeLayout>

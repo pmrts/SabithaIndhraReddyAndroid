@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "survey_id":"P001",
+      "survey_unique_display_id":"P001",
+      "survey_main_question":"How are you?",
+      "survey_date":"30-06-2018"
+    },
+    {
+      "survey_id":"P002",
+      "survey_unique_display_id":"P002",
+      "survey_main_question":"Who are you?",
+      "survey_date":"30-06-2018"
+    }
+  ],
+  "message": "Success",
+  "total_surveys_count": 2,
+  "status": 1
+}

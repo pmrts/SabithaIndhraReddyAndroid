@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    card_view:cardElevation="@dimen/dp_5"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_marginRight="@dimen/dp_10"
+        android:id="@+id/layout"
+        android:visibility="visible">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:id="@+id/grievanceId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Grievance Code"
+            android:textColor="@color/gray_dark"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/dp_8"
+            android:visibility="visible"
+            ></TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:id="@+id/grievanceStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status"
+            android:textColor="@color/gray_dark"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/dp_8"
+            ></TextView>
+
+        </LinearLayout>
+    </LinearLayout>
+    </android.support.v7.widget.CardView>

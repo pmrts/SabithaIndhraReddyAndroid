@@ -1,0 +1,60 @@
+{
+ "data" : [{
+   "id" : 1,
+   "name" : "Thiru. G. Theva Neethi Dhas, I.A.S",
+   "designation" : "Secretary to LT. Governor",
+   "office" : "+91-413-233 4085",
+   "email" : "secylg.pon@nic.in",
+   "image" : "https://rajnivas.py.gov.in/images/content/201804282240412649.jpg" 
+ },
+           {
+           "id" : 2,
+           "name" : "Thiru. G. Srinivas",
+           "designation" : "Additional Secretary to LT> Governer",
+           "office" : "+91-413-233230",
+           "email" : "astolg.py@gov.in",
+           "image" : "https://rajnivas.py.gov.in/images/content/2018042822461231265.jpg"
+           },
+ {
+   "id" : 3,
+   "name" : "Thiru. R. Sridharan",
+   "designation" : "Private Secretary to LT. Governor",
+   "office" : "+91-413-2224555",
+   "email" : "pstolg.py@gov.in",
+   "image" : "https://rajnivas.py.gov.in/images/content/2018042822521227754.jpg" 
+ },
+           {
+           "id" : 4,
+           "name" : "Thiru. DR.S.Bascarane",
+           "designation" : "Grivance Redressal Officer, Raj Nivas",
+           "office" : "+91-0413-2333227",
+           "email" : "grivance.rajnivas.py@gmail.com",
+           "image" : "https://rajnivas.py.gov.in/images/content/201804282254216930.jpg"
+           },
+ {
+   "id" : 5,
+   "name" : "Tmt. Asha Gupta",
+   "designation" : "Comptroller of the Household Raj Nivas",
+   "office" : "+91-0413-2333227",
+   "email" : "chhrajnivas.py@gmail.com",
+   "image" : "https://rajnivas.py.gov.in/images/content/2018042822563623343.jpg" 
+ },
+  {
+   "id" : 6,
+   "name" : "S. Karthigayan",
+   "designation" : "Addl.ADD to LT. Governer",
+   "office" : "+91-413-2333838",
+   "email" : "adctolg.pon@nic.in",
+   "image" : "https://rajnivas.py.gov.in/images/content/2018042822531323197.jpg" 
+ },
+           {
+           "id" : 7,
+           "name" : "Thiru. J. Kumaran",
+           "designation" : "Public Relations Officer, Raj Nivas",
+           "office" : "+91-0413-2333227",
+           "email" : "rjnivas.py@gmail.com",
+           "image" : "https://rajnivas.py.gov.in/images/content/2018042822553615942.jpg"
+           }
+
+ ]
+}

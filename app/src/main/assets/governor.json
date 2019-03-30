@@ -1,0 +1,165 @@
+{
+ "data" : [{
+   "id" : 1,
+   "name" : "KIRAN BEDI",
+   "year" : "",
+   "image" : "" 
+ },
+ {
+   "id" : 2,
+   "name" : "THIRU. LT GEN AJAY KUMAR SINGH",
+   "year" : "17.07.2014 TO 29.05.2016",
+   "image" : "" 
+ },
+ {
+   "id" : 3,
+   "name" : "THIRU. VIRENDRA KATARIA",
+   "year" : "10.07.2013 TO 11.07.2014",
+   "image" : "" 
+ },
+ {
+   "id" : 4,
+   "name" : "THIRU. IQBAL SINGH",
+   "year" : "27.07.2009 TO 10.07.2013",
+   "image" : "" 
+ },
+ {
+   "id" : 5,
+   "name" : "THIRU. SURJITH SINGH BARNALA",
+   "year" : "08.04.2009 TO 25.07.2009",
+   "image" : "" 
+ },
+ {
+   "id" : 6,
+   "name" : "THIRU. GOVIND SINGH GUJAR",
+   "year" : "23.07.2008 TO 06.04.2009",
+   "image" : "" 
+ },
+ {
+   "id" : 7,
+   "name" : "LT. GEN. (RETD).BHOPINDER SINGH",
+   "year" : "15.03.2008 TO 22.07.2008",
+   "image" : "" 
+ },
+ {
+   "id" : 8,
+   "name" : "THIRU. MUKUT MITHI",
+   "year" : "19.07.2006 TO 10.12.2008",
+   "image" : "" 
+ },
+ {
+   "id" : 9,
+   "name" : "THIRU. MADAM MOHAN LAKHERA",
+   "year" : "07.07.2004 TO 18.07.2006",
+   "image" : "" 
+ },
+ {
+   "id" : 10,
+   "name" : "THIRU. NAGENDRA NATH JHA",
+   "year" : "05.01.2004 TO 06.07.2004",
+   "image" : "" 
+ },
+ {
+   "id" : 11,
+   "name" : "THIRU. P.S RAMA MOHAN RAO",
+   "year" : "01.11.2003 TO 04.01.2004",
+   "image" : "" 
+ },
+ {
+   "id" : 12,
+   "name" : "THIRU. K.R MAKANI",
+   "year" : "31.07.2002 TO 27.10.2003",
+   "image" : "" 
+ },
+ {
+   "id" : 13,
+   "name" : "DR. (SMT.) RAJANI RAI",
+   "year" : "23.04.1998 TO 29.07.2002",
+   "image" : "" 
+ },
+ {
+   "id" : 14,
+   "name" : "DR. RAJENDRA KUMARI BAJPAI",
+   "year" : "02.05.1995 TO 22.04.1998",
+   "image" : "" 
+ },
+ {
+   "id" : 15,
+   "name" : "DR. M. CHANNA REDDY",
+   "year" : "31.05.1993 TO 01.05.1995",
+   "image" : "" 
+ },
+ {
+   "id" : 16,
+   "name" : "DR. HARSWARUP SINGH",
+   "year" : "19.12.1990 TO 05.02.1993",
+   "image" : "" 
+ },
+ {
+   "id" : 17,
+   "name" : "SMT. CHANDRAVATHI",
+   "year" : "19.02.1990 TO 18.12.1990",
+   "image" : "" 
+ },
+ {
+   "id" : 18,
+   "name" : "LT. GEN. (RETN) RAN JIT SINGH",
+   "year" : "22.06.1998 TO 19.02.1990",
+   "image" : "" 
+ },
+ {
+   "id" : 19,
+   "name" : "THIRU. TRIBHUVAN PRASAD TEWARY",
+   "year" : "01.10.1984 TO 21.06.1988",
+   "image" : "" 
+ },
+ {
+   "id" : 20,
+   "name" : "THIRU. SL. KHURANA",
+   "year" : "18.06.1984 TO 30.09.1984",
+   "image" : "" 
+ },
+ {
+   "id" : 21,
+   "name" : "THIRU. K. PRABHAKARA RAO",
+   "year" : "02.09.1983 TO 17.06.1984",
+   "image" : "" 
+ },
+ {
+   "id" : 22,
+   "name" : "THIRU. K.M CHANDY",
+   "year" : "15.05.1982 TO 05.08.1983",
+   "image" : "" 
+ },
+ {
+   "id" : 23,
+   "name" : "THIRU. R.N. HALDIPUR",
+   "year" : "27.07.1981 TO 14.05.1982",
+   "image" : "" 
+ },
+ {
+   "id" : 24,
+   "name" : "THIRU. SADIQ ALI",
+   "year" : "16.04.1981 TO 26.07.1981",
+   "image" : "" 
+ },
+ {
+   "id" : 25,
+   "name" : "THIRU. B.T. KULKARNI",
+   "year" : "30.08.1976 TO 31.10.1980",
+   "image" : "" 
+ },
+ {
+   "id" : 26,
+   "name" : "THIRU. CHEDDL LAL",
+   "year" : "08.11.1972 TO 29.08.1976",
+   "image" : "" 
+ },
+ {
+   "id" : 27,
+   "name" : "THIRU. B.D. JATTI",
+   "year" : "14.10.1968 TO 07.11.1972",
+   "image" : "" 
+ }
+ ]
+}

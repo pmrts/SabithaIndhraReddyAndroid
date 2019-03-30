@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    app:ignore="NamespaceTypo">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:background="@color/colorPrimary"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_login_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/dp_50"
+                    android:text="Login"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/dp_25"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_login_title"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/dp_15"
+                    android:layout_marginLeft="@dimen/dp_8"
+                    android:layout_marginRight="@dimen/dp_8"
+                    android:layout_marginTop="@dimen/dp_5"
+                    android:gravity="center"
+                    android:text="@string/login_text"
+                    android:textColor="@color/white"
+                    android:visibility="gone"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_40"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginRight="@dimen/dp_20"
+                android:layout_marginTop="115dp"
+                android:background="@drawable/login_radius"
+                android:elevation="@dimen/dp_25">
+
+                <Button
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/login_radius_fill"
+                    android:elevation="@dimen/dp_16"
+                    android:text="LOGIN"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/dp_16"
+                    android:textStyle="bold"
+                    android:id="@+id/login_button"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="Sign Up"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="@dimen/dp_16"
+                    android:textStyle="bold"
+                    android:id="@+id/register_button"
+                    android:visibility="gone"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/dp_180"
+                android:background="@color/white"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Please Enter Mobile Number"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/dp_18"
+                    android:textStyle="bold" />
+
+
+                    <EditText
+                        android:id="@+id/login_mobile_no"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/dp_20"
+                        android:fontFamily="sans-serif"
+                        android:gravity="center_vertical"
+                        android:hint="Mobile Number"
+                        android:minHeight="@dimen/dp_45"
+                        android:paddingLeft="@dimen/dp_10"
+                        android:layout_marginLeft="@dimen/dp_20"
+                        android:layout_gravity="center"
+                        android:inputType="number"
+                        android:maxLines="1"
+                        android:maxLength="10"
+                        android:background="@drawable/bg_corner_gray"
+                        android:textColor="@color/black"
+                        android:textColorHint="#999999"
+                        android:textSize="@dimen/dp_14"
+                        android:focusable="true"
+                        android:layout_marginTop="@dimen/dp_50"
+                        android:focusableInTouchMode="true"
+                        android:descendantFocusability="beforeDescendants" />
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/black_pure"
+                    android:layout_marginLeft="@dimen/dp_20"
+                    android:layout_marginRight="@dimen/dp_20"
+                    android:layout_marginTop="@dimen/dp_5"
+                    android:visibility="gone">
+
+                </View>
+                <Button
+                    android:id="@+id/signup_button"
+                    android:layout_width="180dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginRight="@dimen/dp_45"
+                    android:layout_marginTop="@dimen/dp_80"
+                    android:background="@drawable/bg_editprimary"
+                    android:fontFamily="sans-serif"
+                    android:text="Request OTP"
+                    android:textSize="@dimen/dp_16"
+                    android:textStyle="bold"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white" />
+                </LinearLayout>
+                </RelativeLayout>
+                </LinearLayout>
+                </RelativeLayout>

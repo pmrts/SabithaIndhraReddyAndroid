@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653831260198",
+    "firebase_url": "https://sabithaindrareddy-e976e.firebaseio.com",
+    "project_id": "sabithaindrareddy-e976e",
+    "storage_bucket": "sabithaindrareddy-e976e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653831260198:android:e13bb7bc6879b917",
+        "android_client_info": {
+          "package_name": "com.dsquare.sabithaIndrareddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653831260198-pf7boid0iqndjcmrom6mooa99btlrbjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiRvOpoGVNQWNzt7bPVKOuCkdPR-7haQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
